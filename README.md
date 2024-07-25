@@ -23,7 +23,7 @@ Ensure you have the following software installed on your local machine:
 1. Clone the repository to your local machine:
 
 ```sh
-git clone https://github.com/literaryhub/bookstore.git
+git clone https://github.com/ahmedShokrr/LiteraryHub-E-BookStore.git
 ```
 
 2. Navigate to the project directory:
